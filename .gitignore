@@ -6,12 +6,9 @@ build/**
 tokenizer/**
 .vscode
 data/**
-onnxruntime-linux-x64-1.19.2.tgz
-onnxruntime-linux-x64-1.19.2
-onnxruntime-linux-x64-gpu-1.19.2
-onnxruntime-linux-x64-gpu-1.19.2.tgz
--onnxruntime-linux-x64-gpu-1.19.2
-_onnxruntime-linux-x64-gpu-1.19.2
+onnxruntime-*
+-onnxruntime-*
+_onnxruntime-*
 time_test.py
 mesure.py
 test.py
